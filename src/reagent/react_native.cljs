@@ -19,3 +19,4 @@
 (def touchable-without-feedback (r/adapt-react-class rn/TouchableWithoutFeedback))
 (def view (r/adapt-react-class rn/View))
 (def virtualized-list (r/adapt-react-class rn/VirtualizedList))
+(def switch (r/adapt-react-class rn/Switch))
